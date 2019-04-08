@@ -5,3 +5,4 @@
 - golang svn gui client @stuartjing
 - golang another Industrial Internet @stuartjing
 - golang distributed memory database @dykanggege
+- golang's underlying communication module includes tcp, udp, socket @ZClee128
