@@ -1,6 +1,6 @@
 # flashes
 
-- yet another golang orm @cg33
+- [yet another golang orm](https://github.com/goctopus/flashes/blob/master/flashes/yet-another-golang-orm/README.md) @cg33
 - golang redis gui client @deathswaltz
 - golang svn gui client @stuartjing
 - golang another Industrial Internet @stuartjing
