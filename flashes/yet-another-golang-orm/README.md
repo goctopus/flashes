@@ -20,10 +20,15 @@ fmt.Println(newUser.Id, newUser.Name)
 
 例子见：https://github.com/goctopus/silk/blob/master/example/main.go
 
-## 进度
+## todo
 
 - [ ] 模型文件对外接口的补充和优化
 - [ ] 适配各种驱动（pg,mysql,mssql,sqlite）的语法
 - [ ] 性能测试
 - [ ] 命令行工具开发（读取数据库配置，获取各个表格信息，生成模型文件）
-- [ ] [collection数据结构](https://laravel.com/docs/5.8/eloquent-collections)
+- [ ] [构建一个类collection数据结构](https://laravel.com/docs/5.8/eloquent-collections)
+
+## 竞品
+
+- [gorose](https://github.com/gohouse/gorose)
+- [gorm](https://github.com/jinzhu/gorm)
