@@ -26,4 +26,4 @@ fmt.Println(newUser.Id, newUser.Name)
 - [ ] 适配各种驱动（pg,mysql,mssql,sqlite）的语法
 - [ ] 性能测试
 - [ ] 命令行工具开发（读取数据库配置，获取各个表格信息，生成模型文件）
-- [ ] collection数据结构
+- [ ] [collection数据结构](https://laravel.com/docs/5.8/eloquent-collections)
