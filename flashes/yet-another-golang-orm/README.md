@@ -12,10 +12,10 @@ user := models.NewUsers()
 user.Id = 1
 user.Name = "张三"
 user.Save()
-fmt.Println(user.Id, user.Name)
 
 newUser := models.NewUsers().WhereId(1).First()
-fmt.Println(newUser.Id, newUser.Name)
+
+user.Delete()
 ```
 
 例子见：https://github.com/goctopus/silk/blob/master/example/main.go
